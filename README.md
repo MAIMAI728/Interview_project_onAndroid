@@ -22,6 +22,6 @@ Depending on input, the output is displayed as the result like the image below.
 ![result](https://i.gyazo.com/47962944b366f0511726df05883315ce.gif)
 
 
-★Show history
+★Logout
 
 ![result](https://i.gyazo.com/b6bbdcda1cbfe69230f0250ce689bd68.gif)
